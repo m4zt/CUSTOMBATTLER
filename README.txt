@@ -1,5 +1,4 @@
-HI
-im new to github
+first script on github so forgive me if anything is wrong
 
 Thank you for checking out the mod!
 
@@ -8,3 +7,5 @@ To view the code behind the project or to edit yourself, download raw.lua (NOT R
 
 Should work with any Roblox injector
 Made by M4zterr
+
+HF ✌
