@@ -13,7 +13,7 @@ CHANGELOG:
 nothing yet
 
 DOWNLOAD:
-Should work with any Roblox injector
+UNFORTUNATELY YOU CANNOT USE THIS UNLESS YOU HAVE A ROBLOX INJECTOR!!!!!!
 To be kept updated with the code, download CUSTOMBATTLER.lua (RECOMMENDED, do not have to redownload if CUSTOMBATTLER.lua is updated)
 To view the code behind the project or to edit yourself, download raw.lua (NOT RECOMMENDED, will have to redownload or reedit script if CUSTOMBATTLER.lua is updated)
 
