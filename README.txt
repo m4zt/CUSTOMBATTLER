@@ -1,9 +1,9 @@
 VERS: v1
 
 IMPLEMENTATIONS: 
-(will change with more updates in the future)
+(more customization and characters to play as will be added with updates in the future)
 - Settings button in main menu to change settings regarding script
-- Ability to play as shotgunman and dopegirl!!!! (more characters to come)
+- Ability to play as shotgunman and dopegirl!!!!
 - Ability to create new characters to play as (will have to create through raw.lua)
 - Ability to change weapons visually
 - Ability to change moves visually
