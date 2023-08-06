@@ -6,6 +6,7 @@ IMPLEMENTATIONS:
 - Ability to create new characters to play as
 - Ability to change weapons visually
 - Ability to change moves visually
+- Ability to change sounds (to ones before the Roblox Audio update)
 
 DOWNLOAD:
 Should work with any Roblox injector
