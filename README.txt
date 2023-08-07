@@ -17,6 +17,11 @@ UNFORTUNATELY YOU CANNOT USE THIS UNLESS YOU HAVE A ROBLOX INJECTOR!!!!!!
 To be kept updated with the code, download CUSTOMBATTLER.lua (RECOMMENDED, do not have to redownload if CUSTOMBATTLER.lua is updated)
 To view the code behind the project or to edit yourself, download raw.lua (NOT RECOMMENDED, will have to redownload or reedit script if CUSTOMBATTLER.lua is updated)
 
+FUTURE:
+- Ability to play as dopegirl and RAIGMAN
+- Additional customization to allow cutscenes and dopegirls face to change to anything you create
+- Polish gui
+
 MISC:
 first script on github so forgive me if anything is wrong
 DM me on discord at @m4zt if you have any bug reports, characters, or ideas that you offer to be added to the mod
