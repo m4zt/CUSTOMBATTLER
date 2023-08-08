@@ -18,7 +18,7 @@ To be kept updated with the code, download CUSTOMBATTLER.lua (RECOMMENDED, do no
 To view the code behind the project or to edit yourself, download raw.lua (NOT RECOMMENDED, will have to redownload or reedit script if CUSTOMBATTLER.lua is updated)
 
 FUTURE:
-- Ability to play as dopegirl and RAIGMAN
+- Ability to play as RAIGMAN
 - Additional customization to allow cutscenes and dopegirls face to change to anything you create
 - Polish gui
 
